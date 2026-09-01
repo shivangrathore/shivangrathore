@@ -4,7 +4,7 @@ Hi 👋 My name is Shivang Rathore
 I have been coding for the past 4-5 years and have developed a strong interest in backend development.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [shivang.tech](https://shivang.tech)
+* 🖥️  See my portfolio at [shivang.tech](https://shivangrathore.com)
 * ✉️  You can contact me at [shivang.rath@gmail.com](mailto:shivang.rath@gmail.com)
 * 🧠  I'm learning Golang
 * 🤝  I'm open to collaborating on Full stack projects
